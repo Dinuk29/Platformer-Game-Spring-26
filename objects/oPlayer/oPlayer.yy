@@ -30,10 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
+  "spriteId":null,
+  "spriteMaskId":{
     "name":"sPlayer",
     "path":"sprites/sPlayer/sPlayer.yy",
   },
-  "spriteMaskId":null,
   "visible":true,
 }
