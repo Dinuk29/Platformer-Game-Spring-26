@@ -17,12 +17,13 @@
   "ResourceOrderSettings":[
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
     {"name":"sBackground","order":9,"path":"sprites/sBackground/sBackground.yy",},
+    {"name":"sCloud","order":8,"path":"sprites/sCloud/sCloud.yy",},
     {"name":"sGrain","order":10,"path":"sprites/sGrain/sGrain.yy",},
     {"name":"sInvisibleWall","order":14,"path":"sprites/sInvisibleWall/sInvisibleWall.yy",},
     {"name":"sPlayer","order":4,"path":"sprites/sPlayer/sPlayer.yy",},
     {"name":"sPlayerA","order":5,"path":"sprites/sPlayerA/sPlayerA.yy",},
     {"name":"sPlayerR","order":6,"path":"sprites/sPlayerR/sPlayerR.yy",},
-    {"name":"Sprite8","order":8,"path":"sprites/Sprite8/Sprite8.yy",},
+    {"name":"Sprite10","order":1,"path":"sprites/Sprite10/Sprite10.yy",},
     {"name":"sWalls","order":7,"path":"sprites/sWalls/sWalls.yy",},
   ],
 }
